@@ -6,19 +6,6 @@ obj/
 .vs/
 .idea/
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-# Build and Debug directories
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-build/
-[Oo]ut/
-*.log
 
 # NuGet
 *.nupkg
@@ -26,22 +13,7 @@ build/
 **/[Pp]ackages/*
 !**/[Pp]ackages/build/
 
-# User-specific files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
 # OS generated files
 .DS_Store
 .DS_Store?
 ._*
-.Spotlight-V100
-.Trashes
-Thumbs.db
-
-# Git
-*.orig
-*.[BLR]ASE.*
-*.[BLR]EMOTE.*
-*_[BLR][A-Z]*_*.txt
