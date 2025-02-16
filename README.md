@@ -1,4 +1,4 @@
-# RCApi
+# Renter Score API
 
 Rental Score backend service
 
