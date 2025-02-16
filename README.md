@@ -32,6 +32,17 @@ OR
 ctrl + c
 ```
 
+## Testing the Project
+
+### Integration Testing
+
+1. Run the Api project.
+2. Run the integration testing with the command:
+```bash
+dotnet test
+```
+
+
 ## Endpoints
 
 The service will start on:
